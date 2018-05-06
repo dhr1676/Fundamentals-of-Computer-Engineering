@@ -20,12 +20,12 @@ EECE 7205 Fundamentals of Computer Engineering Homework
 2. Implementation of HashTable based on open addressing
 
 ## Homework 7
-1. Implementation of Graph algorithms: 
+1. Implementation of Graph algorithms:      
     (1) Breadth-first Search    
     (2) Depth-first Search    
     
 ## Homework 8
-1. Implementation of Graph algorithms: 
+1. Implementation of Graph algorithms:      
     (3) Bellman-Ford    
     (4) Dijkstra    
     (5) Floyd-Warshall    
